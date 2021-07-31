@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226276706012",
+    "firebase_url": "https://mycamera-d13fc.firebaseio.com",
+    "project_id": "mycamera-d13fc",
+    "storage_bucket": "mycamera-d13fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226276706012:android:5ddb603b9cbd716f",
+        "android_client_info": {
+          "package_name": "com.example.sanja.cameraproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226276706012-tt2itii3mvki61v5ja2t2n86ip87oj50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7J_H-hRRbr33lcaReKeiTYXW7_AeRaFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226276706012-tt2itii3mvki61v5ja2t2n86ip87oj50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
